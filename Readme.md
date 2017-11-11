@@ -18,13 +18,24 @@ Why??!?!?!
 This was an unfinished entry for Ludum Dare 39. LD is a 48-hour game jam - make
 a game completely from scratch in 48 hours.
 
+Play!
+-----
+
+At https://andrewl.github.io/invaders_from_space/
+
+Screenshot
+----------
+
+![Screenshot](https://andrewl.github.io/invaders_from_space/screenshot.png)
+
+
 Built with
 -----------
 
-Javascript using the phaser.io library.
+Javascript using the http://phaser.io library.
 
-Music created with BeepBox - beepbox.co 
+Music created with BeepBox - http://beepbox.co 
 
-Sprites were created using Piskel - piskelapp.com
+Sprites were created using Piskel - http://piskelapp.com
 
-Sound FX created using Bfxr - bfxr.net
+Sound FX created using Bfxr - http://bfxr.net
