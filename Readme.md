@@ -24,5 +24,7 @@ Built with
 Javascript using the phaser.io library.
 
 Music created with BeepBox - beepbox.co 
+
 Sprites were created using Piskel - piskelapp.com
+
 Sound FX created using Bfxr - bfxr.net
